@@ -1,1 +1,1 @@
-# THMamba
+# TH-Mamba
